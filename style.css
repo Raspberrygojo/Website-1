@@ -10,7 +10,7 @@
 
 .Home {
     position: relative;
-    background-image: url(Img/Home.jpg);
+    background-image: url(img/Home.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
